@@ -186,7 +186,7 @@ check to make sure:
          )
 
 &lt;img
-src=“Stat-Vehicle-Analysis—Operating-Block-RMD\_files/figure-markdown\_strict/hist-1.png”
+src=Stat-Vehicle-Analysis—Operating-Block-RMD\_files/figure-markdown\_strict/hist-1.png
 trim={0, 1.3cm 0 0},clip style=“display: block; margin: auto;” /&gt;
 
 We should technically conduct univariate statistics across all of the
