@@ -185,7 +185,7 @@ check to make sure:
            paste(strwrap(js$`25`$Description, width = 35), collapse = "\n")
          )
 
-<img src=“Stat-Vehicle-Analysis---Operating-Block-RMD_files/figure-markdown_strict/hist-1.png” />
+<img src=Stat-Vehicle-Analysis---Operating-Block-RMD_files/figure-markdown_strict/hist-1.png />
 
 We should technically conduct univariate statistics across all of the
 other variables here before proceeding further, however I am also
